@@ -16,3 +16,6 @@ new Vue({
 new Vue({
 	el: "#app2",
 });
+
+var myElement = document.getElementById("intro");
+document.getElementById("container").innerHTML = "verde" + "background-color";
